@@ -9,4 +9,6 @@ Third, create a python file in your project and name it as 'app'
 Fourth, Paste the code which you've copied from GitHub.
 Then, Run the code and give the input.
 
-Watch the video at our YouTube channel for more details. (Link will be updated soon)
+Watch the video at our YouTube channel for more details. 
+
+https://youtu.be/ix_I1WoNQos
